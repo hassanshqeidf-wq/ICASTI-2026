@@ -1,23 +1,18 @@
-# ICASTI 2026
+# ICASTI 2026 – UI Prototype
 
-الموقع الرسمي للمؤتمر الدولي للعلوم التطبيقية والتقنية والابتكار — كلية التقنية الإلكترونية بني وليد.
+نسخة أولية Frontend فقط لموقع المؤتمر الدولي للعلوم التطبيقية والتقنية والابتكار.
 
-## Current release
-Static responsive website in Arabic RTL, with a prepared English switch point.
+## الملفات
+- `index.html`
+- `assets/css/style.css`
+- `assets/js/app.js`
+- `assets/images/college-50-logo.jpg`
+- `assets/images/icasti-logo.jpg`
 
-### Approved details
-- 21–23 December 2026
-- Bani Walid, Libya
-- `icasti.ly`
-- `00218924248875`
+## التشغيل
+افتح `index.html` في المتصفح أو استخدم إضافة Live Server في VS Code.
 
-## Run
-Open `index.html` directly, or serve the folder with any local static server.
-
-## Roadmap
-- Internal pages
-- English content
-- Official committee and speaker data
-- Final program
-- Registration form
-- Later: conference management backend
+## ملاحظات
+- لا توجد قاعدة بيانات في هذه النسخة.
+- تم دمج شعاري كلية التقنية الإلكترونية بني وليد (الذكرى الخمسون) وICASTI.
+- مواعيد المؤتمر في الواجهة: 21–23 ديسمبر 2026.
